@@ -1,0 +1,12 @@
+{
+  "name": "handandfootclient",
+  "version": "1.0.0",
+  "description": "Client for hand and foot",
+  "main": "HandAndFoot.html",
+  "repository": "https://github.com/RALifeCoach/handandfootclient.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Oliphant",
+  "license": "ISC"
+}
