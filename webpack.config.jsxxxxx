@@ -1,0 +1,14 @@
+module.exports = {
+    module: {
+        mode: 'development',
+        rules: [
+            {
+                test: /\.(jsx|es6)$/,
+                exclude: /node_modules/,
+                use: {
+                    loader: "babel-loader"
+                }
+            }
+        ]
+    }
+};
